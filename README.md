@@ -15,8 +15,8 @@ We learn how to use the OpenZeppelin library for secure contract development and
 
 ### [Project 3 - Blockchain Architecture](https://github.com/NeziheSozen/)
 
-
+3rd project focuses on designing and implementing a blockchain architecture for a supply chain system. We learn about the different components of a blockchain, including nodes, transactions, and blocks, as well as consensus algorithms and smart contracts. They then use this knowledge to design a blockchain architecture that ensures data privacy, security, and immutability. The project involves building a decentralized application (dApp) using the Ethereum blockchain and Solidity programming language, creating a user interface to interact with the dApp, and testing the system to ensure that it meets the project's requirements. The goal of the project is to give us hands-on experience with designing and implementing a blockchain architecture for a real-world use case.
 
 ### [Project 4 - DApp with Autonomous Smart Contracts and Oracles](https://github.com/NeziheSozen/)
 
-
+The fourth project focuses on creating a decentralized application (DApp) that uses autonomous smart contracts and oracles. We learn about the role of oracles in connecting blockchain applications to off-chain data sources and events, as well as how to create autonomous smart contracts that operate independently without human intervention. The project involves building a DApp that tracks the temperature and humidity of a shipment in a supply chain system, triggering actions based on predefined rules. Solidity programming language is used to write the smart contracts, and Chainlink is used to connect the DApp to an oracle. The project aims to provide hands-on experience with building a DApp that utilizes the latest advancements in blockchain technology.
