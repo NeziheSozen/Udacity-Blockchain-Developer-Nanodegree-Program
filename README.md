@@ -9,7 +9,7 @@ We also gain experience using APIs to interact with their blockchain and testing
 
 ### [Project 2 - Build CryptoStar Dapp on Ethereum](https://github.com/NeziheSozen/Udacity-Blockchain-Developer-Build-CryptoStar-DApp-on-Ethereum)
 
-The Build CryptoStar Dapp on Ethereum project offered by Udacity guides we through the development of a decentralized application (Dapp) using the Ethereum blockchain platform. The project covers topics such as smart contract development using Solidity, deploying the contract on the Rinkeby test network, and building a user interface using web3.js and HTML/CSS. 
+The Build CryptoStar Dapp on Ethereum project offered by Udacity guides we through the development of a decentralized application (Dapp) using the Ethereum blockchain platform. The project covers topics such as smart contract development using Solidity, deploying the contract on the Goerli test network, and building a user interface using web3.js and HTML/CSS. 
 
 We learn how to use the OpenZeppelin library for secure contract development and implement functionality for users to claim and trade their own unique stars using the ERC-721 token standard. By the end of the project, we have a working Dapp that demonstrates their understanding of Ethereum development and the potential for blockchain technology in creating decentralized applications.
 
