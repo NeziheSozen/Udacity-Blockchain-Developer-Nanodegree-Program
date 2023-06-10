@@ -21,4 +21,4 @@ We learn how to use the OpenZeppelin library for secure contract development and
 
 The fourth project focuses on creating a decentralized application (DApp) that uses autonomous smart contracts and oracles. We learn about the role of oracles in connecting blockchain applications to off-chain data sources and events, as well as how to create autonomous smart contracts that operate independently without human intervention. The project involves building a DApp that tracks the temperature and humidity of a shipment in a supply chain system, triggering actions based on predefined rules. Solidity programming language is used to write the smart contracts is used to connect the DApp to an oracle. The project aims to provide hands-on experience with building a DApp that utilizes the latest advancements in blockchain technology.
 
-![Sequence Diagrams](image_2023-06-10_185438804.png)
+![Certificate](image_2023-06-10_185438804.png)
